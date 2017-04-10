@@ -1,0 +1,35 @@
+.pannels{
+
+
+}
+#FCC-side{
+    width:45%;
+    float: left;
+    background-color: red;
+    border-radius: 10%;
+    padding: 2%;
+
+}
+
+#feed{
+    width: 45%;
+    float: right;
+    background-color: #0a568c;
+    border-radius: 10%;
+    padding: 2%;
+}
+
+.thumbnail{
+    width: 100px;
+}
+body{
+    padding:20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.Content
+{
+    height:224px;
+    overflow:auto;
+    background:#fff;
+}
